@@ -1,0 +1,20 @@
+/* Excursion by @mariolozano */
+
+body {
+	background-color: black;
+	text-align: center;
+}
+
+h1 {
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+}
+
+p .cta {
+
+	font-size: 16px;
+	color: Aquamarine;
+}
